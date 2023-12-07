@@ -2862,3 +2862,14 @@ button.alt:active,
   gap: 2em;
   justify-content: center;
 }
+
+.icons-project {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.icons-project li {
+  margin: 0;
+}
